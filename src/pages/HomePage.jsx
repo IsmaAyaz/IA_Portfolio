@@ -56,7 +56,7 @@ const HomePage = () => {
             </Link>
             
             <Link to="/contact" className="px-4 py-2 text-sm border border-input bg-background hover:bg-accent hover:text-accent-foreground rounded-md transition-colors text-center">
-              Get In Touch
+              Hire Me
             </Link>
             
             <a 

@@ -1,9 +1,9 @@
 import { useState } from 'react';
-import { Menu, X, Sun, Moon } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { Button } from '@/components/ui/button.jsx';
 import { Link, useLocation } from 'react-router-dom';
 
-const Header = ({ darkMode, toggleDarkMode }) => {
+const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const location = useLocation();
 
@@ -12,7 +12,7 @@ const Header = ({ darkMode, toggleDarkMode }) => {
     { path: '/about', label: 'About' },
     { path: '/skills', label: 'Skills' },
     { path: '/projects', label: 'Projects' },
-    { path: '/experience', label: 'Experience' }, // New item
+    { path: '/experience', label: 'Experience' },
     { path: '/certifications', label: 'Certifications' },
     { path: '/contact', label: 'Contact' }
   ];
@@ -31,7 +31,7 @@ const Header = ({ darkMode, toggleDarkMode }) => {
             IA
           </Link>
 
-          {/* Desktop Navigation - moved fully right */}
+          {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-1 ml-auto">
             {navItems.map((item) => (
               <Button
@@ -49,17 +49,8 @@ const Header = ({ darkMode, toggleDarkMode }) => {
             ))}
           </nav>
 
-          {/* Dark Mode Toggle & Mobile Menu */}
+          {/* Mobile Menu Toggle */}
           <div className="flex items-center space-x-2 ml-4">
-            <Button
-              variant="ghost"
-              size="icon"
-              onClick={toggleDarkMode}
-              className="w-9 h-9"
-            >
-              {darkMode ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
-            </Button>
-
             <Button
               variant="ghost"
               size="icon"

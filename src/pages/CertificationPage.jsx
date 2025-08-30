@@ -10,7 +10,7 @@ const CertificationPage = () => {
       title: 'Bachelor of Computer Science',
       issuer: 'NUML',
       date: '2021 - 2025',
-      description: 'Pursuing/Completed Bachelor of Computer Science degree at NUML.',
+      description: 'Completed Bachelor of Computer Science degree at NUML.',
       link: '',
       gradient: 'from-blue-500 to-indigo-500'
     },

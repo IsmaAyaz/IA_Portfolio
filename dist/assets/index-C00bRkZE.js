@@ -9232,7 +9232,7 @@ const createLucideIcon = (iconName, iconNode) => {
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$m = [
+const __iconNode$k = [
   [
     "path",
     {
@@ -9242,31 +9242,7 @@ const __iconNode$m = [
   ],
   ["circle", { cx: "12", cy: "8", r: "6", key: "1vp47v" }]
 ];
-const Award = createLucideIcon("award", __iconNode$m);
-/**
- * @license lucide-react v0.510.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$l = [
-  ["path", { d: "M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16", key: "jecpp" }],
-  ["rect", { width: "20", height: "14", x: "2", y: "6", rx: "2", key: "i6l2r4" }]
-];
-const Briefcase = createLucideIcon("briefcase", __iconNode$l);
-/**
- * @license lucide-react v0.510.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$k = [
-  ["path", { d: "M8 2v4", key: "1cmpym" }],
-  ["path", { d: "M16 2v4", key: "4m81vk" }],
-  ["rect", { width: "18", height: "18", x: "3", y: "4", rx: "2", key: "1hopcy" }],
-  ["path", { d: "M3 10h18", key: "8toen8" }]
-];
-const Calendar = createLucideIcon("calendar", __iconNode$k);
+const Award = createLucideIcon("award", __iconNode$k);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9274,10 +9250,10 @@ const Calendar = createLucideIcon("calendar", __iconNode$k);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$j = [
-  ["path", { d: "M21.801 10A10 10 0 1 1 17 3.335", key: "yps3ct" }],
-  ["path", { d: "m9 11 3 3L22 4", key: "1pflzl" }]
+  ["path", { d: "M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16", key: "jecpp" }],
+  ["rect", { width: "20", height: "14", x: "2", y: "6", rx: "2", key: "i6l2r4" }]
 ];
-const CircleCheckBig = createLucideIcon("circle-check-big", __iconNode$j);
+const Briefcase = createLucideIcon("briefcase", __iconNode$j);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9285,10 +9261,12 @@ const CircleCheckBig = createLucideIcon("circle-check-big", __iconNode$j);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$i = [
-  ["polyline", { points: "16 18 22 12 16 6", key: "z7tu5w" }],
-  ["polyline", { points: "8 6 2 12 8 18", key: "1eg1df" }]
+  ["path", { d: "M8 2v4", key: "1cmpym" }],
+  ["path", { d: "M16 2v4", key: "4m81vk" }],
+  ["rect", { width: "18", height: "18", x: "3", y: "4", rx: "2", key: "1hopcy" }],
+  ["path", { d: "M3 10h18", key: "8toen8" }]
 ];
-const Code = createLucideIcon("code", __iconNode$i);
+const Calendar = createLucideIcon("calendar", __iconNode$i);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9296,6 +9274,28 @@ const Code = createLucideIcon("code", __iconNode$i);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$h = [
+  ["path", { d: "M21.801 10A10 10 0 1 1 17 3.335", key: "yps3ct" }],
+  ["path", { d: "m9 11 3 3L22 4", key: "1pflzl" }]
+];
+const CircleCheckBig = createLucideIcon("circle-check-big", __iconNode$h);
+/**
+ * @license lucide-react v0.510.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$g = [
+  ["polyline", { points: "16 18 22 12 16 6", key: "z7tu5w" }],
+  ["polyline", { points: "8 6 2 12 8 18", key: "1eg1df" }]
+];
+const Code = createLucideIcon("code", __iconNode$g);
+/**
+ * @license lucide-react v0.510.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$f = [
   ["path", { d: "M10 2v2", key: "7u0qdc" }],
   ["path", { d: "M14 2v2", key: "6buw04" }],
   [
@@ -9307,31 +9307,7 @@ const __iconNode$h = [
   ],
   ["path", { d: "M6 2v2", key: "colzsn" }]
 ];
-const Coffee = createLucideIcon("coffee", __iconNode$h);
-/**
- * @license lucide-react v0.510.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$g = [
-  ["path", { d: "M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4", key: "ih7n3h" }],
-  ["polyline", { points: "7 10 12 15 17 10", key: "2ggqvy" }],
-  ["line", { x1: "12", x2: "12", y1: "15", y2: "3", key: "1vk2je" }]
-];
-const Download = createLucideIcon("download", __iconNode$g);
-/**
- * @license lucide-react v0.510.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$f = [
-  ["path", { d: "M15 3h6v6", key: "1q9fwt" }],
-  ["path", { d: "M10 14 21 3", key: "gplh6r" }],
-  ["path", { d: "M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6", key: "a6xqqp" }]
-];
-const ExternalLink = createLucideIcon("external-link", __iconNode$f);
+const Coffee = createLucideIcon("coffee", __iconNode$f);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9339,16 +9315,11 @@ const ExternalLink = createLucideIcon("external-link", __iconNode$f);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$e = [
-  [
-    "path",
-    {
-      d: "M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4",
-      key: "tonef"
-    }
-  ],
-  ["path", { d: "M9 18c-4.51 2-5-2-7-2", key: "9comsn" }]
+  ["path", { d: "M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4", key: "ih7n3h" }],
+  ["polyline", { points: "7 10 12 15 17 10", key: "2ggqvy" }],
+  ["line", { x1: "12", x2: "12", y1: "15", y2: "3", key: "1vk2je" }]
 ];
-const Github = createLucideIcon("github", __iconNode$e);
+const Download = createLucideIcon("download", __iconNode$e);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9356,15 +9327,11 @@ const Github = createLucideIcon("github", __iconNode$e);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$d = [
-  [
-    "path",
-    {
-      d: "M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z",
-      key: "c3ymky"
-    }
-  ]
+  ["path", { d: "M15 3h6v6", key: "1q9fwt" }],
+  ["path", { d: "M10 14 21 3", key: "gplh6r" }],
+  ["path", { d: "M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6", key: "a6xqqp" }]
 ];
-const Heart = createLucideIcon("heart", __iconNode$d);
+const ExternalLink = createLucideIcon("external-link", __iconNode$d);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9375,14 +9342,13 @@ const __iconNode$c = [
   [
     "path",
     {
-      d: "M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5",
-      key: "1gvzjb"
+      d: "M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4",
+      key: "tonef"
     }
   ],
-  ["path", { d: "M9 18h6", key: "x1upvd" }],
-  ["path", { d: "M10 22h4", key: "ceow96" }]
+  ["path", { d: "M9 18c-4.51 2-5-2-7-2", key: "9comsn" }]
 ];
-const Lightbulb = createLucideIcon("lightbulb", __iconNode$c);
+const Github = createLucideIcon("github", __iconNode$c);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9393,14 +9359,12 @@ const __iconNode$b = [
   [
     "path",
     {
-      d: "M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z",
-      key: "c2jq9f"
+      d: "M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z",
+      key: "c3ymky"
     }
-  ],
-  ["rect", { width: "4", height: "12", x: "2", y: "9", key: "mk3on5" }],
-  ["circle", { cx: "4", cy: "4", r: "2", key: "bt5ra8" }]
+  ]
 ];
-const Linkedin = createLucideIcon("linkedin", __iconNode$b);
+const Heart = createLucideIcon("heart", __iconNode$b);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9408,10 +9372,17 @@ const Linkedin = createLucideIcon("linkedin", __iconNode$b);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$a = [
-  ["path", { d: "m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7", key: "132q7q" }],
-  ["rect", { x: "2", y: "4", width: "20", height: "16", rx: "2", key: "izxlao" }]
+  [
+    "path",
+    {
+      d: "M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5",
+      key: "1gvzjb"
+    }
+  ],
+  ["path", { d: "M9 18h6", key: "x1upvd" }],
+  ["path", { d: "M10 22h4", key: "ceow96" }]
 ];
-const Mail = createLucideIcon("mail", __iconNode$a);
+const Lightbulb = createLucideIcon("lightbulb", __iconNode$a);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9419,11 +9390,17 @@ const Mail = createLucideIcon("mail", __iconNode$a);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$9 = [
-  ["path", { d: "M4 12h16", key: "1lakjw" }],
-  ["path", { d: "M4 18h16", key: "19g7jn" }],
-  ["path", { d: "M4 6h16", key: "1o0s65" }]
+  [
+    "path",
+    {
+      d: "M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z",
+      key: "c2jq9f"
+    }
+  ],
+  ["rect", { width: "4", height: "12", x: "2", y: "9", key: "mk3on5" }],
+  ["circle", { cx: "4", cy: "4", r: "2", key: "bt5ra8" }]
 ];
-const Menu = createLucideIcon("menu", __iconNode$9);
+const Linkedin = createLucideIcon("linkedin", __iconNode$9);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9431,9 +9408,10 @@ const Menu = createLucideIcon("menu", __iconNode$9);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$8 = [
-  ["path", { d: "M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z", key: "a7tn18" }]
+  ["path", { d: "m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7", key: "132q7q" }],
+  ["rect", { x: "2", y: "4", width: "20", height: "16", rx: "2", key: "izxlao" }]
 ];
-const Moon = createLucideIcon("moon", __iconNode$8);
+const Mail = createLucideIcon("mail", __iconNode$8);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -9441,6 +9419,18 @@ const Moon = createLucideIcon("moon", __iconNode$8);
  * See the LICENSE file in the root directory of this source tree.
  */
 const __iconNode$7 = [
+  ["path", { d: "M4 12h16", key: "1lakjw" }],
+  ["path", { d: "M4 18h16", key: "19g7jn" }],
+  ["path", { d: "M4 6h16", key: "1o0s65" }]
+];
+const Menu = createLucideIcon("menu", __iconNode$7);
+/**
+ * @license lucide-react v0.510.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */
+const __iconNode$6 = [
   [
     "path",
     {
@@ -9449,14 +9439,14 @@ const __iconNode$7 = [
     }
   ]
 ];
-const Phone = createLucideIcon("phone", __iconNode$7);
+const Phone = createLucideIcon("phone", __iconNode$6);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$6 = [
+const __iconNode$5 = [
   [
     "path",
     {
@@ -9469,14 +9459,14 @@ const __iconNode$6 = [
   ["path", { d: "M4 17v2", key: "vumght" }],
   ["path", { d: "M5 18H3", key: "zchphs" }]
 ];
-const Sparkles = createLucideIcon("sparkles", __iconNode$6);
+const Sparkles = createLucideIcon("sparkles", __iconNode$5);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
  */
-const __iconNode$5 = [
+const __iconNode$4 = [
   [
     "path",
     {
@@ -9485,25 +9475,7 @@ const __iconNode$5 = [
     }
   ]
 ];
-const Star = createLucideIcon("star", __iconNode$5);
-/**
- * @license lucide-react v0.510.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */
-const __iconNode$4 = [
-  ["circle", { cx: "12", cy: "12", r: "4", key: "4exip2" }],
-  ["path", { d: "M12 2v2", key: "tus03m" }],
-  ["path", { d: "M12 20v2", key: "1lh1kg" }],
-  ["path", { d: "m4.93 4.93 1.41 1.41", key: "149t6j" }],
-  ["path", { d: "m17.66 17.66 1.41 1.41", key: "ptbguv" }],
-  ["path", { d: "M2 12h2", key: "1t8f8n" }],
-  ["path", { d: "M20 12h2", key: "1q8mjw" }],
-  ["path", { d: "m6.34 17.66-1.41 1.41", key: "1m8zz5" }],
-  ["path", { d: "m19.07 4.93-1.41 1.41", key: "1shlcs" }]
-];
-const Sun = createLucideIcon("sun", __iconNode$4);
+const Star = createLucideIcon("star", __iconNode$4);
 /**
  * @license lucide-react v0.510.0 - ISC
  *
@@ -12720,7 +12692,7 @@ function Button({
     }
   );
 }
-const Header = ({ darkMode, toggleDarkMode }) => {
+const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = reactExports.useState(false);
   const location = useLocation();
   const navItems = [
@@ -12729,7 +12701,6 @@ const Header = ({ darkMode, toggleDarkMode }) => {
     { path: "/skills", label: "Skills" },
     { path: "/projects", label: "Projects" },
     { path: "/experience", label: "Experience" },
-    // New item
     { path: "/certifications", label: "Certifications" },
     { path: "/contact", label: "Contact" }
   ];
@@ -12754,28 +12725,16 @@ const Header = ({ darkMode, toggleDarkMode }) => {
         },
         item.path
       )) }),
-      /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-center space-x-2 ml-4", children: [
-        /* @__PURE__ */ jsxRuntimeExports.jsx(
-          Button,
-          {
-            variant: "ghost",
-            size: "icon",
-            onClick: toggleDarkMode,
-            className: "w-9 h-9",
-            children: darkMode ? /* @__PURE__ */ jsxRuntimeExports.jsx(Sun, { className: "h-4 w-4" }) : /* @__PURE__ */ jsxRuntimeExports.jsx(Moon, { className: "h-4 w-4" })
-          }
-        ),
-        /* @__PURE__ */ jsxRuntimeExports.jsx(
-          Button,
-          {
-            variant: "ghost",
-            size: "icon",
-            className: "md:hidden w-9 h-9",
-            onClick: () => setIsMenuOpen(!isMenuOpen),
-            children: isMenuOpen ? /* @__PURE__ */ jsxRuntimeExports.jsx(X, { className: "h-4 w-4" }) : /* @__PURE__ */ jsxRuntimeExports.jsx(Menu, { className: "h-4 w-4" })
-          }
-        )
-      ] })
+      /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "flex items-center space-x-2 ml-4", children: /* @__PURE__ */ jsxRuntimeExports.jsx(
+        Button,
+        {
+          variant: "ghost",
+          size: "icon",
+          className: "md:hidden w-9 h-9",
+          onClick: () => setIsMenuOpen(!isMenuOpen),
+          children: isMenuOpen ? /* @__PURE__ */ jsxRuntimeExports.jsx(X, { className: "h-4 w-4" }) : /* @__PURE__ */ jsxRuntimeExports.jsx(Menu, { className: "h-4 w-4" })
+        }
+      ) })
     ] }),
     isMenuOpen && /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "md:hidden py-4 border-t border-border", children: /* @__PURE__ */ jsxRuntimeExports.jsx("nav", { className: "flex flex-col space-y-2", children: navItems.map((item) => /* @__PURE__ */ jsxRuntimeExports.jsx(
       Button,
@@ -20063,7 +20022,7 @@ const HomePage = () => {
         /* @__PURE__ */ jsxRuntimeExports.jsx(motion.p, { className: "text-sm md:text-base text-muted-foreground mb-6 leading-relaxed", initial: { opacity: 0 }, animate: { opacity: 1 }, transition: { duration: 0.6, delay: 0.6 }, children: "I craft beautiful, responsive, and user-friendly web applications with modern technologies. Passionate about clean code, smart design, and turning innovative ideas into digital solutions, I combine my front-end expertise with a growing background in AI/ML to create impactful projects." }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs(motion.div, { className: "flex flex-col sm:flex-row justify-center gap-3 mb-6", initial: { opacity: 0 }, animate: { opacity: 1 }, transition: { duration: 0.6, delay: 0.8 }, children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx(Link, { to: "/projects", className: "px-4 py-2 text-sm bg-primary text-primary-foreground rounded-md hover:bg-primary/90 transition-colors text-center", children: "View My Work" }),
-          /* @__PURE__ */ jsxRuntimeExports.jsx(Link, { to: "/contact", className: "px-4 py-2 text-sm border border-input bg-background hover:bg-accent hover:text-accent-foreground rounded-md transition-colors text-center", children: "Get In Touch" }),
+          /* @__PURE__ */ jsxRuntimeExports.jsx(Link, { to: "/contact", className: "px-4 py-2 text-sm border border-input bg-background hover:bg-accent hover:text-accent-foreground rounded-md transition-colors text-center", children: "Hire Me" }),
           /* @__PURE__ */ jsxRuntimeExports.jsxs(
             "a",
             {
@@ -21677,7 +21636,7 @@ const CertificationPage = () => {
       title: "Bachelor of Computer Science",
       issuer: "NUML",
       date: "2021 - 2025",
-      description: "Pursuing/Completed Bachelor of Computer Science degree at NUML.",
+      description: "Completed Bachelor of Computer Science degree at NUML.",
       link: "",
       gradient: "from-blue-500 to-indigo-500"
     },
@@ -21946,37 +21905,15 @@ const ExperiencePage = () => {
   ] });
 };
 function App() {
-  const [darkMode, setDarkMode] = reactExports.useState(false);
-  reactExports.useEffect(() => {
-    const savedTheme = localStorage.getItem("theme");
-    const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    if (savedTheme === "dark" || !savedTheme && systemPrefersDark) {
-      setDarkMode(true);
-      document.documentElement.classList.add("dark");
-    }
-  }, []);
-  const toggleDarkMode = () => {
-    const newDarkMode = !darkMode;
-    setDarkMode(newDarkMode);
-    if (newDarkMode) {
-      document.documentElement.classList.add("dark");
-      localStorage.setItem("theme", "dark");
-    } else {
-      document.documentElement.classList.remove("dark");
-      localStorage.setItem("theme", "light");
-    }
-  };
   return /* @__PURE__ */ jsxRuntimeExports.jsx(BrowserRouter, { children: /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "min-h-screen bg-background text-foreground font-sans", children: [
-    /* @__PURE__ */ jsxRuntimeExports.jsx(Header, { darkMode, toggleDarkMode }),
-    /* @__PURE__ */ jsxRuntimeExports.jsx("main", { className: "transition-all duration-300 ease-in-out", children: /* @__PURE__ */ jsxRuntimeExports.jsxs(Routes, { children: [
+    /* @__PURE__ */ jsxRuntimeExports.jsx(Header, {}),
+    /* @__PURE__ */ jsxRuntimeExports.jsx("main", { className: "pt-16", children: /* @__PURE__ */ jsxRuntimeExports.jsxs(Routes, { children: [
       /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/", element: /* @__PURE__ */ jsxRuntimeExports.jsx(HomePage, {}) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/about", element: /* @__PURE__ */ jsxRuntimeExports.jsx(AboutPage, {}) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/skills", element: /* @__PURE__ */ jsxRuntimeExports.jsx(SkillsPage, {}) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/projects", element: /* @__PURE__ */ jsxRuntimeExports.jsx(ProjectsPage, {}) }),
       /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/experience", element: /* @__PURE__ */ jsxRuntimeExports.jsx(ExperiencePage, {}) }),
-      "       ",
       /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/certifications", element: /* @__PURE__ */ jsxRuntimeExports.jsx(CertificationPage, {}) }),
-      " ",
       /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/contact", element: /* @__PURE__ */ jsxRuntimeExports.jsx(ContactPage, {}) })
     ] }) }),
     /* @__PURE__ */ jsxRuntimeExports.jsx(Footer, {})
