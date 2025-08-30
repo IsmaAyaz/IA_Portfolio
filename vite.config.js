@@ -16,11 +16,8 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     sourcemap: false,
-    rollupOptions: {
-      input: {
-        main: path.resolve(__dirname, 'index.html')
-      }
-    }
+    cssCodeSplit: false, // Ensure CSS is not split
+    minify: false, // Disable minification for debugging
   },
   server: {
     port: 3000,
